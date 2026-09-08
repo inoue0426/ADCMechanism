@@ -1,0 +1,29 @@
+cell_antigen_context,mechanism_a,mechanism_b,n_a,n_b,positives_a,positives_b,prevalence_a,prevalence_b,prevalence_diff_a_minus_b,payloads_a,payloads_b,has_label_variation
+SK-OV-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),DNA-damaging,Topo-I inhibitor,1,4,1,0,1.0000,0.0000,1.0000,PAY0QKJME,PAY0ZVBAI,1
+Raji cells || B-cell receptor CD22 (CD22),DNA-damaging,Topo-I inhibitor,1,2,1,1,1.0000,0.5000,0.5000,PAY0RZSDY,PAY0ZVBAI,1
+Ramos cells || B-cell receptor CD22 (CD22),DNA-damaging,Topo-I inhibitor,1,2,1,1,1.0000,0.5000,0.5000,PAY0RZSDY,PAY0ZVBAI,1
+Reh cells || B-cell receptor CD22 (CD22),DNA-damaging,Topo-I inhibitor,1,2,1,1,1.0000,0.5000,0.5000,PAY0RZSDY,PAY0ZVBAI,1
+Daudi cells || B-cell receptor CD22 (CD22),DNA-damaging,Topo-I inhibitor,1,1,1,1,1.0000,1.0000,0.0000,PAY0RZSDY,PAY0ZVBAI,0
+MDA-MB-231 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),DNA-damaging,Topo-I inhibitor,1,4,0,0,0.0000,0.0000,0.0000,PAY0QKJME,PAY0ZVBAI,0
+RS4 11 cells || B-cell receptor CD22 (CD22),DNA-damaging,Topo-I inhibitor,1,1,1,1,1.0000,1.0000,0.0000,PAY0RZSDY,PAY0ZVBAI,0
+SW620 cells || Epidermal growth factor receptor (EGFR),DNA-damaging,microtubule-disrupting,1,1,1,0,1.0000,0.0000,1.0000,PAY0AKDAM,PAY0FSXOW,1
+NCI-N87 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),DNA-damaging,microtubule-disrupting,1,9,0,8,0.0000,0.8889,-0.8889,PAY0QKJME,PAY0FSXOW;PAY0JCIBW;PAY0VZVPQ,1
+A375.S2 cells || CD276 antigen (CD276),DNA-damaging,microtubule-disrupting,1,4,1,4,1.0000,1.0000,0.0000,PAY0SOSMQ,PAY0FSXOW,0
+Calu-6 cells || CD276 antigen (CD276),DNA-damaging,microtubule-disrupting,1,4,1,4,1.0000,1.0000,0.0000,PAY0SOSMQ,PAY0FSXOW,0
+HCT 15 cells || Epidermal growth factor receptor (EGFR),DNA-damaging,microtubule-disrupting,1,1,0,0,0.0000,0.0000,0.0000,PAY0AKDAM,PAY0FSXOW,0
+Hs 700T cells || CD276 antigen (CD276),DNA-damaging,microtubule-disrupting,1,4,1,4,1.0000,1.0000,0.0000,PAY0SOSMQ,PAY0FSXOW,0
+LoVo cells || Epidermal growth factor receptor (EGFR),DNA-damaging,microtubule-disrupting,1,1,1,1,1.0000,1.0000,0.0000,PAY0AKDAM,PAY0FSXOW,0
+MDA-MB-231 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),DNA-damaging,microtubule-disrupting,1,2,0,0,0.0000,0.0000,0.0000,PAY0QKJME,PAY0FSXOW;PAY0JCIBW,0
+MDA-MB-231 cells || Tyrosine-protein kinase receptor UFO (AXL),DNA-damaging,microtubule-disrupting,1,2,1,2,1.0000,1.0000,0.0000,PAY0XBVCC,PAY0FSXOW,0
+MDA-MB-468 cells || CD276 antigen (CD276),DNA-damaging,microtubule-disrupting,1,4,1,4,1.0000,1.0000,0.0000,PAY0SOSMQ,PAY0FSXOW,0
+NCI-H1703 cells || CD276 antigen (CD276),DNA-damaging,microtubule-disrupting,1,4,1,4,1.0000,1.0000,0.0000,PAY0SOSMQ,PAY0FSXOW,0
+PA-1 cells || CD276 antigen (CD276),DNA-damaging,microtubule-disrupting,1,4,1,4,1.0000,1.0000,0.0000,PAY0SOSMQ,PAY0FSXOW,0
+Raji cells || CD276 antigen (CD276),DNA-damaging,microtubule-disrupting,1,4,0,0,0.0000,0.0000,0.0000,PAY0SOSMQ,PAY0FSXOW,0
+SK-BR-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),DNA-damaging,microtubule-disrupting,2,9,2,9,1.0000,1.0000,0.0000,PAY0LZRXU,PAY0FSXOW;PAY0JCIBW;PAY0VZVPQ,0
+SK-OV-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),DNA-damaging,microtubule-disrupting,1,4,1,4,1.0000,1.0000,0.0000,PAY0QKJME,PAY0FSXOW;PAY0VZVPQ,0
+U-87MG cells || Epidermal growth factor receptor (EGFR),DNA-damaging,microtubule-disrupting,1,2,1,2,1.0000,1.0000,0.0000,PAY0AKDAM,PAY0FSXOW,0
+SK-OV-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),Topo-I inhibitor,microtubule-disrupting,4,4,0,4,0.0000,1.0000,-1.0000,PAY0ZVBAI,PAY0FSXOW;PAY0VZVPQ,1
+CVCL_0033 || Receptor tyrosine-protein kinase erbB-2 (HER2),Topo-I inhibitor,microtubule-disrupting,1,1,1,1,1.0000,1.0000,0.0000,PAY0WSZPJ,PAY0FSXOW,0
+CVCL_0479 || Cadherin-6 (CDH6),Topo-I inhibitor,microtubule-disrupting,4,1,4,1,1.0000,1.0000,0.0000,PAY0UXDSB,PAY0GTSVM,0
+MCF-7 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),Topo-I inhibitor,microtubule-disrupting,4,5,0,0,0.0000,0.0000,0.0000,PAY0ZVBAI,PAY0FSXOW;PAY0JCIBW;PAY0VZVPQ,0
+MDA-MB-231 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),Topo-I inhibitor,microtubule-disrupting,4,2,0,0,0.0000,0.0000,0.0000,PAY0ZVBAI,PAY0FSXOW;PAY0JCIBW,0

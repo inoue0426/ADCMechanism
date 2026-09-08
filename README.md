@@ -62,3 +62,19 @@ source .venv/bin/activate
 pip install -e .
 python scripts/audit_dataset.py --help
 ```
+
+## Current local study
+
+The current ADCdb/ADCNet mechanism identifiability run is reproducible with:
+
+```bash
+python3 scripts/audit_adcdb_activity.py
+python3 scripts/identifiability_study.py
+```
+
+Primary outputs:
+
+- `results/identifiability_study.md`
+- `results/cheap_model_results.csv`
+- `results/matched_context_mechanism_effect_summary.csv`
+- `OVERNIGHT_STATUS.md`

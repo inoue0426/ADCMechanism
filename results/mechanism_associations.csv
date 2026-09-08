@@ -1,0 +1,6 @@
+association,left,right,cramers_v,right_unique_values
+mechanism_payload,payload_mechanism,payload_identity,1.000,25
+mechanism_antigen,payload_mechanism,antigen_name,0.828,28
+mechanism_cell_line,payload_mechanism,cell_line,0.877,256
+mechanism_disease,payload_mechanism,disease_model,0.694,93
+mechanism_cell_antigen_context,payload_mechanism,cell_antigen_context,0.942,382

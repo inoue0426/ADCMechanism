@@ -1,0 +1,26 @@
+context,mechanism_count,observations,unique_payloads,has_label_variation,mechanisms
+SK-OV-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),3,9,4,1,DNA-damaging; Topo-I inhibitor; microtubule-disrupting
+MDA-MB-231 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),3,7,4,0,DNA-damaging; Topo-I inhibitor; microtubule-disrupting
+SK-BR-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),2,11,4,0,DNA-damaging; microtubule-disrupting
+NCI-N87 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),2,10,4,1,DNA-damaging; microtubule-disrupting
+MCF-7 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),2,9,4,0,Topo-I inhibitor; microtubule-disrupting
+BT-474 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),2,6,4,1,Other; microtubule-disrupting
+A375.S2 cells || CD276 antigen (CD276),2,5,2,0,DNA-damaging; microtubule-disrupting
+CVCL_0479 || Cadherin-6 (CDH6),2,5,2,0,Topo-I inhibitor; microtubule-disrupting
+Calu-6 cells || CD276 antigen (CD276),2,5,2,0,DNA-damaging; microtubule-disrupting
+Hs 700T cells || CD276 antigen (CD276),2,5,2,0,DNA-damaging; microtubule-disrupting
+MDA-MB-468 cells || CD276 antigen (CD276),2,5,2,0,DNA-damaging; microtubule-disrupting
+NCI-H1703 cells || CD276 antigen (CD276),2,5,2,0,DNA-damaging; microtubule-disrupting
+PA-1 cells || CD276 antigen (CD276),2,5,2,0,DNA-damaging; microtubule-disrupting
+Raji cells || CD276 antigen (CD276),2,5,2,0,DNA-damaging; microtubule-disrupting
+MDA-MB-231 cells || Tyrosine-protein kinase receptor UFO (AXL),2,3,2,0,DNA-damaging; microtubule-disrupting
+Raji cells || B-cell receptor CD22 (CD22),2,3,2,1,DNA-damaging; Topo-I inhibitor
+Ramos cells || B-cell receptor CD22 (CD22),2,3,2,1,DNA-damaging; Topo-I inhibitor
+Reh cells || B-cell receptor CD22 (CD22),2,3,2,1,DNA-damaging; Topo-I inhibitor
+U-87MG cells || Epidermal growth factor receptor (EGFR),2,3,2,0,DNA-damaging; microtubule-disrupting
+CVCL_0033 || Receptor tyrosine-protein kinase erbB-2 (HER2),2,2,2,0,Topo-I inhibitor; microtubule-disrupting
+Daudi cells || B-cell receptor CD22 (CD22),2,2,2,0,DNA-damaging; Topo-I inhibitor
+HCT 15 cells || Epidermal growth factor receptor (EGFR),2,2,2,0,DNA-damaging; microtubule-disrupting
+LoVo cells || Epidermal growth factor receptor (EGFR),2,2,2,0,DNA-damaging; microtubule-disrupting
+RS4 11 cells || B-cell receptor CD22 (CD22),2,2,2,0,DNA-damaging; Topo-I inhibitor
+SW620 cells || Epidermal growth factor receptor (EGFR),2,2,2,1,DNA-damaging; microtubule-disrupting

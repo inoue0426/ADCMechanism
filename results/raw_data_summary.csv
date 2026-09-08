@@ -1,0 +1,5 @@
+top_level,files,total_bytes,suffixes
+adcdb_idrblab,441,28649281,".csv:1, .html:439, .txt:1"
+adcnet_github,4,219477,".json:1, .xlsx:3"
+annotationdb_adcdb,2,67589,.json:2
+digitaltumors_adcdb_pipeline,3,6785,".md:2, .yaml:1"

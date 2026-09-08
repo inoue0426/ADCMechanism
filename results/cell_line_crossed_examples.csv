@@ -1,0 +1,48 @@
+context,mechanism_count,observations,unique_payloads,has_label_variation,mechanisms
+MDA-MB-231 cells,3,13,5,1,DNA-damaging; Topo-I inhibitor; microtubule-disrupting
+NCI-N87 cells,3,13,7,1,DNA-damaging; Topo-I inhibitor; microtubule-disrupting
+Raji cells,3,12,5,1,DNA-damaging; Topo-I inhibitor; microtubule-disrupting
+SK-OV-3 cells,3,11,6,1,DNA-damaging; Topo-I inhibitor; microtubule-disrupting
+Ramos cells,3,7,3,1,DNA-damaging; Topo-I inhibitor; microtubule-disrupting
+Daudi cells,3,6,4,1,DNA-damaging; Topo-I inhibitor; microtubule-disrupting
+SK-MES-1 cells,3,4,3,1,DNA-damaging; Topo-I inhibitor; microtubule-disrupting
+MCF-7 cells,2,11,5,1,Topo-I inhibitor; microtubule-disrupting
+MDA-MB-468 cells,2,11,4,1,DNA-damaging; microtubule-disrupting
+SK-BR-3 cells,2,11,4,0,DNA-damaging; microtubule-disrupting
+NCI-H1703 cells,2,7,3,0,DNA-damaging; microtubule-disrupting
+Reh cells,2,7,2,1,DNA-damaging; Topo-I inhibitor
+BT-474 cells,2,6,4,1,Other; microtubule-disrupting
+HL-60 cells,2,6,2,1,DNA-damaging; microtubule-disrupting
+A375.S2 cells,2,5,2,0,DNA-damaging; microtubule-disrupting
+CVCL_0479,2,5,2,0,Topo-I inhibitor; microtubule-disrupting
+Calu-6 cells,2,5,2,0,DNA-damaging; microtubule-disrupting
+DU145 cells,2,5,2,1,Topo-I inhibitor; microtubule-disrupting
+Hs 700T cells,2,5,2,0,DNA-damaging; microtubule-disrupting
+Karpas-299 cells,2,5,2,1,DNA-damaging; microtubule-disrupting
+PA-1 cells,2,5,2,0,DNA-damaging; microtubule-disrupting
+RS4 11 cells,2,5,2,1,DNA-damaging; Topo-I inhibitor
+U-87MG cells,2,5,3,0,DNA-damaging; microtubule-disrupting
+SU-DHL-1 cells,2,4,2,0,DNA-damaging; microtubule-disrupting
+BxPC-3 cells,2,3,3,1,Topo-I inhibitor; microtubule-disrupting
+COLO 205 cells,2,3,3,0,DNA-damaging; Topo-I inhibitor
+EoL-1 cells,2,3,3,1,DNA-damaging; microtubule-disrupting
+HCT 15 cells,2,3,3,0,DNA-damaging; microtubule-disrupting
+LoVo cells,2,3,3,0,DNA-damaging; microtubule-disrupting
+SW620 cells,2,3,3,1,DNA-damaging; microtubule-disrupting
+BT-20 cells,2,2,2,1,DNA-damaging; microtubule-disrupting
+CCRF-CEM cells,2,2,2,0,DNA-damaging; Topo-I inhibitor
+CVCL_0033,2,2,2,0,Topo-I inhibitor; microtubule-disrupting
+EBC-1 cells,2,2,2,1,DNA-damaging; microtubule-disrupting
+HT-29 cells,2,2,2,0,DNA-damaging; microtubule-disrupting
+Kasumi-1 cells,2,2,2,1,DNA-damaging; microtubule-disrupting
+MOLM-13 cells,2,2,2,0,DNA-damaging; microtubule-disrupting
+MOLT-4 cells,2,2,2,1,DNA-damaging; microtubule-disrupting
+MV4-11 cells,2,2,2,0,DNA-damaging; microtubule-disrupting
+NCI-H226 cells,2,2,2,0,DNA-damaging; microtubule-disrupting
+NCI-H441 cells,2,2,2,1,DNA-damaging; microtubule-disrupting
+NCI-H929 cells,2,2,2,0,Other; microtubule-disrupting
+SKM-1 cells,2,2,2,0,DNA-damaging; microtubule-disrupting
+SU-DHL-4 cells,2,2,2,0,DNA-damaging; microtubule-disrupting
+TF-1a cells,2,2,2,0,DNA-damaging; microtubule-disrupting
+THP-1 cells,2,2,2,0,DNA-damaging; microtubule-disrupting
+WSU-DLCL2 cells,2,2,2,1,DNA-damaging; microtubule-disrupting

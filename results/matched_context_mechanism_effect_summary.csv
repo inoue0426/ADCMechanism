@@ -1,0 +1,4 @@
+mechanism_a,mechanism_b,crossed_contexts,contexts_with_label_variation,observations_in_pair_contexts,mean_prevalence_diff_a_minus_b,weighted_prevalence_diff_a_minus_b,a_higher_contexts,b_higher_contexts,equal_contexts
+DNA-damaging,microtubule-disrupting,16,2,76,0.0069,-0.0906,1,1,14
+DNA-damaging,Topo-I inhibitor,7,4,23,0.3571,0.4130,4,0,3
+Topo-I inhibitor,microtubule-disrupting,5,1,30,-0.2000,-0.2667,0,1,4

@@ -1,0 +1,9 @@
+context,mechanism_count,observations,unique_payloads,has_label_variation,mechanisms
+Receptor tyrosine-protein kinase erbB-2 (HER2),4,80,9,1,DNA-damaging; Other; Topo-I inhibitor; microtubule-disrupting
+Epidermal growth factor receptor (EGFR),3,61,5,1,DNA-damaging; Other; microtubule-disrupting
+CD276 antigen (CD276),3,52,3,1,DNA-damaging; Topo-I inhibitor; microtubule-disrupting
+B-cell receptor CD22 (CD22),2,22,2,1,DNA-damaging; Topo-I inhibitor
+Tyrosine-protein kinase receptor UFO (AXL),2,22,2,1,DNA-damaging; microtubule-disrupting
+Carcinoembryonic antigen-related cell adhesion molecule 5 (CEACAM5),2,18,3,1,Topo-I inhibitor; microtubule-disrupting
+Cadherin-6 (CDH6),2,5,2,0,Topo-I inhibitor; microtubule-disrupting
+HLA class II histocompatibility antigen gamma chain (CD74),2,4,2,1,DNA-damaging; Other

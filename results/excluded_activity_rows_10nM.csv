@@ -1,0 +1,339 @@
+adc_id,activity_id,standard_type,relation,value_numeric,units,payload_mechanism,reason
+DRG0AFXBF,ADCC002235,Half Maximal Inhibitory Concentration (IC50),=,37.42,ug/mL,Other,non_molar_or_missing_value
+DRG0AVDEL,ADCC003375,Half Maximal Effective Concentration (EC50),=,6.9,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0AVDEL,ADCC003376,Half Maximal Effective Concentration (EC50),<,10.0,ug/mL,DNA-damaging,non_molar_or_missing_value
+DRG0AWYBA,ADCC002403,Inhibition rate (100nM),=,0.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0AWYBA,ADCC002402,Inhibition rate (100nM),=,0.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0AWYBA,ADCC002401,Inhibition rate (100nM),>,50.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BBQSE,ADCC000188,Half Maximal Inhibitory Concentration (IC50),=,1.2,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0BBQSE,ADCC000189,Half Maximal Inhibitory Concentration (IC50),=,3.4,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0BBQSE,ADCC000190,Half Maximal Inhibitory Concentration (IC50),=,4.7,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0BBQSE,ADCC000187,Half Maximal Inhibitory Concentration (IC50),=,37.8,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0BIVOI,ADCC008207,Max inhibition rate (MIR),=,60.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BIVOI,ADCC008206,Max inhibition rate (MIR),=,75.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BIVOI,ADCC008209,Max inhibition rate (MIR),=,86.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BIVOI,ADCC008211,Max inhibition rate (MIR),=,87.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BIVOI,ADCC008198,Max inhibition rate (MIR),=,91.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BIVOI,ADCC008201,Max inhibition rate (MIR),=,92.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BIVOI,ADCC008199,Max inhibition rate (MIR),=,95.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BIVOI,ADCC008208,Max inhibition rate (MIR),=,98.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BIVOI,ADCC008210,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BIVOI,ADCC008205,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BIVOI,ADCC008204,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BIVOI,ADCC008203,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BIVOI,ADCC008202,Max inhibition rate (MIR),=,100.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BIVOI,ADCC008200,Max inhibition rate (MIR),=,100.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0BRWYZ,ADCC001426,Half Maximum Growth Inhibitory Concentration (GI50),=,1.74,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0BTGYC,ADCC001915,Half Maximal Effective Concentration (EC50),=,0.03,ug/mL,Other,non_molar_or_missing_value
+DRG0BTGYC,ADCC001916,Half Maximal Effective Concentration (EC50),=,11.9,ug/mL,Other,non_molar_or_missing_value
+DRG0CRHCH,ADCC006943,Half Maximal Inhibitory Concentration (IC50),=,10.0,ug/mL,DNA-damaging,non_molar_or_missing_value
+DRG0CRHCH,ADCC006941,Half Maximal Inhibitory Concentration (IC50),=,10.0,ug/mL,DNA-damaging,non_molar_or_missing_value
+DRG0CRHCH,ADCC006939,Half Maximal Inhibitory Concentration (IC50),=,10.0,ug/mL,DNA-damaging,non_molar_or_missing_value
+DRG0CRHCH,ADCC006937,Half Maximal Inhibitory Concentration (IC50),=,10.0,ug/mL,DNA-damaging,non_molar_or_missing_value
+DRG0CYMEB,ADCC007082,Half Maximal Inhibitory Concentration (IC50),=,8.0,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0CYMEB,ADCC002190,Half Maximal Inhibitory Concentration (IC50),=,0.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0CYMEB,ADCC002194,Half Maximal Inhibitory Concentration (IC50),=,0.01,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0CYMEB,ADCC002192,Half Maximal Inhibitory Concentration (IC50),=,0.01,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0CYMEB,ADCC002191,Half Maximal Inhibitory Concentration (IC50),=,0.03,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0CYMEB,ADCC002193,Half Maximal Inhibitory Concentration (IC50),=,0.06,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0CYMEB,ADCC002195,Half Maximal Inhibitory Concentration (IC50),=,0.27,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0CYYHU,ADCC002242,Half Maximal Effective Concentration (EC50),=,0.05,nM ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0CYYHU,ADCC002241,Half Maximal Effective Concentration (EC50),=,0.07,nM ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0CZZTF,ADCC002253,Half Maximal Effective Concentration (EC50),=,0.1,nM ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0DBEFV,ADCC001955,Half Maximal Effective Concentration (EC50),=,0.03,ug/mL,Other,non_molar_or_missing_value
+DRG0DBEFV,ADCC001956,Half Maximal Effective Concentration (EC50),=,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0DNFUC,ADCC002250,Half Maximal Effective Concentration (EC50),=,0.07,nM ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0DNFUC,ADCC002251,Half Maximal Effective Concentration (EC50),=,0.41,nM ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0DSCQI,ADCC001873,Half Maximal Effective Concentration (EC50),=,0.12,ug/mL,Other,non_molar_or_missing_value
+DRG0DSCQI,ADCC001874,Half Maximal Effective Concentration (EC50),>,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0DWYOX,ADCC001965,Half Maximal Effective Concentration (EC50),=,0.2,ng/mL,Other,non_molar_or_missing_value
+DRG0DWYOX,ADCC001966,Half Maximal Effective Concentration (EC50),=,12.1,ug/mL,Other,non_molar_or_missing_value
+DRG0DYMWP,ADCC001877,Half Maximal Effective Concentration (EC50),=,1.08,ug/mL,Other,non_molar_or_missing_value
+DRG0DYMWP,ADCC001878,Half Maximal Effective Concentration (EC50),>,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0ERKBH,ADCC003001,Half Maximal Inhibitory Concentration (IC50),=,0.7,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002983,Half Maximal Inhibitory Concentration (IC50),=,4.8,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC003002,Half Maximal Inhibitory Concentration (IC50),=,5.1,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002995,Half Maximal Inhibitory Concentration (IC50),=,5.3,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002990,Half Maximal Inhibitory Concentration (IC50),=,6.1,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC000155,Half Maximal Inhibitory Concentration (IC50),=,6.7,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC003000,Half Maximal Inhibitory Concentration (IC50),=,7.6,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002989,Half Maximal Inhibitory Concentration (IC50),=,7.6,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002998,Half Maximal Inhibitory Concentration (IC50),=,8.1,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002996,Half Maximal Inhibitory Concentration (IC50),=,9.0,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002984,Half Maximal Inhibitory Concentration (IC50),=,11.5,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002999,Half Maximal Inhibitory Concentration (IC50),=,15.1,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002986,Half Maximal Inhibitory Concentration (IC50),=,15.7,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002992,Half Maximal Inhibitory Concentration (IC50),=,24.9,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC000154,Half Maximal Inhibitory Concentration (IC50),=,25.4,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC000153,Half Maximal Inhibitory Concentration (IC50),=,26.8,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002980,Half Maximal Inhibitory Concentration (IC50),=,32.7,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002987,Half Maximal Inhibitory Concentration (IC50),=,34.8,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002981,Half Maximal Inhibitory Concentration (IC50),=,41.7,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002993,Half Maximal Inhibitory Concentration (IC50),=,41.8,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC003003,Half Maximal Inhibitory Concentration (IC50),>,3000.0,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002997,Half Maximal Inhibitory Concentration (IC50),>,3000.0,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002994,Half Maximal Inhibitory Concentration (IC50),>,3000.0,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002991,Half Maximal Inhibitory Concentration (IC50),>,3000.0,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002988,Half Maximal Inhibitory Concentration (IC50),>,3000.0,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002985,Half Maximal Inhibitory Concentration (IC50),>,3000.0,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC002982,Half Maximal Inhibitory Concentration (IC50),>,3000.0,ng/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC003336,Half Maximal Inhibitory Concentration (IC50),=,3.0,ug/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC000156,Half Maximal Inhibitory Concentration (IC50),>,10.0,ug/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0ERKBH,ADCC003335,Half Maximal Inhibitory Concentration (IC50),=,97.0,ug/mL,Topo-I inhibitor,non_molar_or_missing_value
+DRG0EVIRB,ADCC002530,Half Maximal Inhibitory Concentration (IC50),=,18.0,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0EVIRB,ADCC002531,Half Maximal Inhibitory Concentration (IC50),>,110.0,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0EWRAI,ADCC008235,Max inhibition rate (MIR),=,65.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0EWRAI,ADCC008234,Max inhibition rate (MIR),=,75.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0EWRAI,ADCC008237,Max inhibition rate (MIR),=,84.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0EWRAI,ADCC008239,Max inhibition rate (MIR),=,88.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0EWRAI,ADCC008226,Max inhibition rate (MIR),=,92.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0EWRAI,ADCC008229,Max inhibition rate (MIR),=,94.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0EWRAI,ADCC008227,Max inhibition rate (MIR),=,94.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0EWRAI,ADCC008236,Max inhibition rate (MIR),=,98.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0EWRAI,ADCC008232,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0EWRAI,ADCC008230,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0EWRAI,ADCC008238,Max inhibition rate (MIR),=,100.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0EWRAI,ADCC008233,Max inhibition rate (MIR),=,100.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0EWRAI,ADCC008231,Max inhibition rate (MIR),=,100.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0EWRAI,ADCC008228,Max inhibition rate (MIR),=,100.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0FBKIO,ADCC001901,Half Maximal Effective Concentration (EC50),=,0.08,ug/mL,Other,non_molar_or_missing_value
+DRG0FBKIO,ADCC001902,Half Maximal Effective Concentration (EC50),=,5.8,ug/mL,Other,non_molar_or_missing_value
+DRG0FQFDY,ADCC001422,Half Maximal Inhibitory Concentration (IC50),=,1.48,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0FQFDY,ADCC001423,Half Maximal Inhibitory Concentration (IC50),=,2130.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0FQLWO,ADCC001893,Half Maximal Effective Concentration (EC50),=,0.03,ug/mL,Other,non_molar_or_missing_value
+DRG0FQLWO,ADCC001894,Half Maximal Effective Concentration (EC50),=,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0FSHWJ,ADCC001997,Half Maximal Inhibitory Concentration (IC50),<,25.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0FSHWJ,ADCC001996,Half Maximal Inhibitory Concentration (IC50),<,25.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0FSHWJ,ADCC001995,Half Maximal Inhibitory Concentration (IC50),<,25.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0FSHWJ,ADCC001994,Half Maximal Inhibitory Concentration (IC50),<,25.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0FSHWJ,ADCC001993,Half Maximal Inhibitory Concentration (IC50),<,25.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0FUFBP,ADCC000595,Half Maximum Growth Inhibitory Concentration (GI50),>,6667.0,pM,DNA-damaging,ambiguous_censored_value
+DRG0FUFBP,ADCC000593,Half Maximum Growth Inhibitory Concentration (GI50),>,6667.0,pM,DNA-damaging,ambiguous_censored_value
+DRG0FUFBP,ADCC000592,Half Maximum Growth Inhibitory Concentration (GI50),>,6667.0,pM,DNA-damaging,ambiguous_censored_value
+DRG0FUFBP,ADCC000591,Half Maximum Growth Inhibitory Concentration (GI50),>,6667.0,pM,DNA-damaging,ambiguous_censored_value
+DRG0FUFBP,ADCC000589,Half Maximum Growth Inhibitory Concentration (GI50),=,7.49,pM ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0GCLJQ,ADCC001432,Half Maximal Inhibitory Concentration (IC50),=,16.1,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0GCLJQ,ADCC001428,Half Maximal Inhibitory Concentration (IC50),=,24.1,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0GCLJQ,ADCC001429,Half Maximal Inhibitory Concentration (IC50),=,33.9,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0GCLJQ,ADCC001431,Half Maximal Inhibitory Concentration (IC50),>,10.0,ug/mL,DNA-damaging,non_molar_or_missing_value
+DRG0GCLJQ,ADCC001430,Half Maximal Inhibitory Concentration (IC50),>,10.0,ug/mL,DNA-damaging,non_molar_or_missing_value
+DRG0GFDUW,ADCC001867,Half Maximal Effective Concentration (EC50),=,0.45,ug/mL,Other,non_molar_or_missing_value
+DRG0GFDUW,ADCC001868,Half Maximal Effective Concentration (EC50),=,3.4,ug/mL,Other,non_molar_or_missing_value
+DRG0GKOZH,ADCC006181,Half Maximal Inhibitory Concentration (IC50),=,0.2,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0GKOZH,ADCC006180,Half Maximal Inhibitory Concentration (IC50),=,74.6,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0HCGBQ,ADCC002532,Half Maximal Inhibitory Concentration (IC50),=,1.8,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0HCGBQ,ADCC002533,Half Maximal Inhibitory Concentration (IC50),=,4.8,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0HDIEW,ADCC002536,Half Maximal Inhibitory Concentration (IC50),=,4.7,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0HPUIL,ADCC000703,Half Maximal Inhibitory Concentration (IC50),>,1.0,pM,microtubule-disrupting,ambiguous_censored_value
+DRG0HRDSA,ADCC001897,Half Maximal Effective Concentration (EC50),=,0.09,ug/mL,Other,non_molar_or_missing_value
+DRG0HRDSA,ADCC001898,Half Maximal Effective Concentration (EC50),=,43.7,ug/mL,Other,non_molar_or_missing_value
+DRG0IFKGK,ADCC008156,Max inhibition rate (MIR),=,54.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0IFKGK,ADCC008151,Max inhibition rate (MIR),=,69.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0IFKGK,ADCC008146,Max inhibition rate (MIR),=,74.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0IFKGK,ADCC008171,Max inhibition rate (MIR),=,80.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0IFKGK,ADCC008181,Max inhibition rate (MIR),=,91.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0IFKGK,ADCC008166,Max inhibition rate (MIR),=,98.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0IFKGK,ADCC008176,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0IFKGK,ADCC008161,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0JEVIM,ADCC000382,Half Maximal Inhibitory Concentration (IC50),=,4.91,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0JEVIM,ADCC000384,Half Maximal Inhibitory Concentration (IC50),=,11.28,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0JEVIM,ADCC000383,Half Maximal Inhibitory Concentration (IC50),=,14.54,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0JOHND,ADCC004925,Half Maximal Inhibitory Concentration (IC50),>,0.41,nM,DNA-damaging,ambiguous_censored_value
+DRG0JWBNH,ADCC000399,Half Maximal Inhibitory Concentration (IC50),=,4.5,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0JWBNH,ADCC000401,Half Maximal Inhibitory Concentration (IC50),=,6.0,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0JWBNH,ADCC000400,Half Maximal Inhibitory Concentration (IC50),=,63.0,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0JWBNH,ADCC000402,Half Maximal Inhibitory Concentration (IC50),=,90.0,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0JWBNH,ADCC000301,Half Maximal Inhibitory Concentration (IC50),=,219.5,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0JWBNH,ADCC000303,Half Maximal Inhibitory Concentration (IC50),=,1013.0,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0JWBNH,ADCC000302,Half Maximal Inhibitory Concentration (IC50),=,1400.8,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0JWBNH,ADCC000300,Half Maximal Inhibitory Concentration (IC50),=,3300.0,ng/mL ng/mL ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0KSALF,ADCC001879,Half Maximal Effective Concentration (EC50),=,0.38,ug/mL,Other,non_molar_or_missing_value
+DRG0KSALF,ADCC001880,Half Maximal Effective Concentration (EC50),=,6.4,ug/mL,Other,non_molar_or_missing_value
+DRG0KUNBK,ADCC002259,Half Maximal Effective Concentration (EC50),=,0.04,nM ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0KXYRT,ADCC002524,Half Maximal Inhibitory Concentration (IC50),=,2.8,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0LDNPD,ADCC005405,Half Maximal Inhibitory Concentration (IC50),=,12.0,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0LDNPD,ADCC005358,Half Maximal Inhibitory Concentration (IC50),=,34.0,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MBWYP,ADCC001913,Half Maximal Effective Concentration (EC50),=,0.03,ug/mL,Other,non_molar_or_missing_value
+DRG0MBWYP,ADCC001914,Half Maximal Effective Concentration (EC50),=,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0MCWQA,ADCC000894,Half Maximal Inhibitory Concentration (IC50),=,5.5,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000890,Half Maximal Inhibitory Concentration (IC50),=,15.34,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000879,Half Maximal Inhibitory Concentration (IC50),=,20.7,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000881,Half Maximal Inhibitory Concentration (IC50),=,24.3,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000893,Half Maximal Inhibitory Concentration (IC50),=,42.06,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000878,Half Maximal Inhibitory Concentration (IC50),=,68.54,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000892,Half Maximal Inhibitory Concentration (IC50),=,189.3,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000876,Half Maximal Inhibitory Concentration (IC50),=,190.9,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000897,Half Maximal Inhibitory Concentration (IC50),=,370.4,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000895,Half Maximal Inhibitory Concentration (IC50),=,887.2,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000884,Half Maximal Inhibitory Concentration (IC50),=,1828.3,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000885,Half Maximal Inhibitory Concentration (IC50),=,2090.3,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000877,Half Maximal Inhibitory Concentration (IC50),=,2895.7,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000883,Half Maximal Inhibitory Concentration (IC50),=,6881.0,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000891,Half Maximal Inhibitory Concentration (IC50),>,10.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000889,Half Maximal Inhibitory Concentration (IC50),>,10.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000888,Half Maximal Inhibitory Concentration (IC50),>,10.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000887,Half Maximal Inhibitory Concentration (IC50),>,10.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000886,Half Maximal Inhibitory Concentration (IC50),>,10.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000882,Half Maximal Inhibitory Concentration (IC50),>,10.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MCWQA,ADCC000880,Half Maximal Inhibitory Concentration (IC50),>,10.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0MJNCJ,ADCC001871,Half Maximal Effective Concentration (EC50),=,0.16,ug/mL,Other,non_molar_or_missing_value
+DRG0MJNCJ,ADCC001872,Half Maximal Effective Concentration (EC50),=,4.7,ug/mL,Other,non_molar_or_missing_value
+DRG0MKPHL,ADCC001875,Half Maximal Effective Concentration (EC50),=,0.19,ug/mL,Other,non_molar_or_missing_value
+DRG0MKPHL,ADCC001876,Half Maximal Effective Concentration (EC50),=,2.9,ug/mL,Other,non_molar_or_missing_value
+DRG0MNHFT,ADCC001444,Half Maximal Inhibitory Concentration (IC50),=,3.6,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0MNHFT,ADCC001443,Half Maximal Inhibitory Concentration (IC50),=,5.37,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0MNHFT,ADCC001447,Half Maximal Inhibitory Concentration (IC50),=,5.9,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0MNHFT,ADCC001446,Half Maximal Inhibitory Concentration (IC50),=,36.1,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0MNHFT,ADCC001445,Half Maximal Inhibitory Concentration (IC50),>,10.0,ug/mL,DNA-damaging,non_molar_or_missing_value
+DRG0MOFZM,ADCC008157,Max inhibition rate (MIR),=,57.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0MOFZM,ADCC008152,Max inhibition rate (MIR),=,70.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0MOFZM,ADCC008147,Max inhibition rate (MIR),=,78.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0MOFZM,ADCC008172,Max inhibition rate (MIR),=,80.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0MOFZM,ADCC008182,Max inhibition rate (MIR),=,90.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0MOFZM,ADCC008167,Max inhibition rate (MIR),=,98.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0MOFZM,ADCC008177,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0MOFZM,ADCC008162,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0MQFRJ,ADCC001917,Half Maximal Effective Concentration (EC50),=,0.03,ug/mL,Other,non_molar_or_missing_value
+DRG0MQFRJ,ADCC001918,Half Maximal Effective Concentration (EC50),=,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0NDXRU,ADCC006562,Half Maximal Effective Concentration (EC50),=,30.6,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0NEMOV,ADCC006945,Tumor Growth Inhibition value (TGI),=,89.8,%,microtubule-disrupting,non_potency_endpoint
+DRG0NLDTF,ADCC001927,Half Maximal Effective Concentration (EC50),=,0.03,ug/mL,Other,non_molar_or_missing_value
+DRG0NLDTF,ADCC001928,Half Maximal Effective Concentration (EC50),=,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0OIVTW,ADCC002528,Half Maximal Inhibitory Concentration (IC50),=,0.24,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0OIVTW,ADCC002529,Half Maximal Inhibitory Concentration (IC50),=,12.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0OTHET,ADCC002245,Half Maximal Effective Concentration (EC50),=,0.04,nM ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0OTHET,ADCC002244,Half Maximal Effective Concentration (EC50),=,0.07,nM ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0PFZZF,ADCC008155,Max inhibition rate (MIR),=,59.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0PFZZF,ADCC008150,Max inhibition rate (MIR),=,71.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0PFZZF,ADCC008145,Max inhibition rate (MIR),=,76.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0PFZZF,ADCC008170,Max inhibition rate (MIR),=,80.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0PFZZF,ADCC008180,Max inhibition rate (MIR),=,90.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0PFZZF,ADCC008165,Max inhibition rate (MIR),=,98.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0PFZZF,ADCC008175,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0PFZZF,ADCC008160,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0PNJIT,ADCC000002,Half Maximal Effective Concentration (EC50),=,411.0,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0PNJIT,ADCC000003,Half Maximal Effective Concentration (EC50),>,10.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0PNJIT,ADCC000004,Half Maximal Effective Concentration (EC50),>,10.0,mg/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0PXQWR,ADCC006944,Tumor Growth Inhibition value (TGI),=,87.5,%,microtubule-disrupting,non_potency_endpoint
+DRG0PXQWR,ADCC006942,Half Maximal Inhibitory Concentration (IC50),=,10.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0PXQWR,ADCC006940,Half Maximal Inhibitory Concentration (IC50),=,10.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0PXQWR,ADCC006938,Half Maximal Inhibitory Concentration (IC50),=,10.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0PXQWR,ADCC006936,Half Maximal Inhibitory Concentration (IC50),=,10.0,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0QBGIW,ADCC001887,Half Maximal Effective Concentration (EC50),=,0.29,ug/mL,Other,non_molar_or_missing_value
+DRG0QBGIW,ADCC001888,Half Maximal Effective Concentration (EC50),=,5.8,ug/mL,Other,non_molar_or_missing_value
+DRG0QCXIA,ADCC001863,Half Maximal Effective Concentration (EC50),=,0.03,ug/mL,Other,non_molar_or_missing_value
+DRG0QCXIA,ADCC001864,Half Maximal Effective Concentration (EC50),=,0.77,ug/mL,Other,non_molar_or_missing_value
+DRG0QRXDE,ADCC002248,Half Maximal Effective Concentration (EC50),=,0.04,nM ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0QRXDE,ADCC002247,Half Maximal Effective Concentration (EC50),=,0.07,nM ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0QUXXT,ADCC001427,Half Maximum Growth Inhibitory Concentration (GI50),=,2.62,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0RHAZG,ADCC000742,Half Maximal Effective Concentration (EC50),=,6.3,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0RHWVZ,ADCC001885,Half Maximal Effective Concentration (EC50),=,0.03,ug/mL,Other,non_molar_or_missing_value
+DRG0RHWVZ,ADCC001886,Half Maximal Effective Concentration (EC50),=,1.4,ug/mL,Other,non_molar_or_missing_value
+DRG0RMADH,ADCC001935,Half Maximal Effective Concentration (EC50),=,0.03,ug/mL,Other,non_molar_or_missing_value
+DRG0RMADH,ADCC001936,Half Maximal Effective Concentration (EC50),=,3.9,ug/mL,Other,non_molar_or_missing_value
+DRG0RVKKH,ADCC001911,Half Maximal Effective Concentration (EC50),=,0.03,ug/mL,Other,non_molar_or_missing_value
+DRG0RVKKH,ADCC001912,Half Maximal Effective Concentration (EC50),=,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0RWYVW,ADCC001977,Half Maximal Effective Concentration (EC50),=,0.03,ug/mL,Other,non_molar_or_missing_value
+DRG0RWYVW,ADCC001978,Half Maximal Effective Concentration (EC50),=,12.0,ug/mL,Other,non_molar_or_missing_value
+DRG0RYHHB,ADCC001869,Half Maximal Effective Concentration (EC50),=,7.03,ug/mL,Other,non_molar_or_missing_value
+DRG0RYHHB,ADCC001870,Half Maximal Effective Concentration (EC50),>,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0SHYWZ,ADCC001891,Half Maximal Effective Concentration (EC50),=,0.55,ug/mL,Other,non_molar_or_missing_value
+DRG0SHYWZ,ADCC001892,Half Maximal Effective Concentration (EC50),>,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0SRATX,ADCC001953,Half Maximal Effective Concentration (EC50),=,0.09,ug/mL,Other,non_molar_or_missing_value
+DRG0SRATX,ADCC001954,Half Maximal Effective Concentration (EC50),=,36.8,ug/mL,Other,non_molar_or_missing_value
+DRG0SYDXK,ADCC001943,Half Maximal Effective Concentration (EC50),=,0.04,ug/mL,Other,non_molar_or_missing_value
+DRG0SYDXK,ADCC001944,Half Maximal Effective Concentration (EC50),=,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0SZERO,ADCC000758,Tumor Growth Inhibition value (TGI),=,0.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0SZERO,ADCC000754,Tumor Growth Inhibition value (TGI),=,80.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0SZERO,ADCC000756,Tumor Growth Inhibition value (TGI),=,100.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0SZERO,ADCC000752,Tumor Growth Inhibition value (TGI),=,100.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0TEJEI,ADCC001967,Half Maximal Effective Concentration (EC50),=,0.03,ug/mL,Other,non_molar_or_missing_value
+DRG0TEJEI,ADCC001968,Half Maximal Effective Concentration (EC50),=,2.8,ug/mL,Other,non_molar_or_missing_value
+DRG0TRBER,ADCC002257,Half Maximal Effective Concentration (EC50),=,0.05,nM ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0TVSRK,ADCC001889,Half Maximal Effective Concentration (EC50),=,2.18,ug/mL,Other,non_molar_or_missing_value
+DRG0TVSRK,ADCC001890,Half Maximal Effective Concentration (EC50),>,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0VIDMZ,ADCC002525,Half Maximal Inhibitory Concentration (IC50),=,2.7,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0VIDMZ,ADCC002526,Half Maximal Inhibitory Concentration (IC50),=,14.7,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0VMKDY,ADCC003807,Half Maximal Inhibitory Concentration (IC50),>,3.0,nM,microtubule-disrupting,ambiguous_censored_value
+DRG0VMKDY,ADCC003804,Half Maximal Inhibitory Concentration (IC50),>,3.0,nM,microtubule-disrupting,ambiguous_censored_value
+DRG0VMKDY,ADCC003803,Half Maximal Inhibitory Concentration (IC50),>,3.0,nM,microtubule-disrupting,ambiguous_censored_value
+DRG0VMKDY,ADCC003801,Half Maximal Inhibitory Concentration (IC50),>,3.0,nM,microtubule-disrupting,ambiguous_censored_value
+DRG0VMKDY,ADCC003800,Half Maximal Inhibitory Concentration (IC50),>,3.0,nM,microtubule-disrupting,ambiguous_censored_value
+DRG0VMKDY,ADCC003797,Half Maximal Inhibitory Concentration (IC50),>,3.0,nM,microtubule-disrupting,ambiguous_censored_value
+DRG0VMKDY,ADCC003794,Half Maximal Inhibitory Concentration (IC50),>,3.0,nM,microtubule-disrupting,ambiguous_censored_value
+DRG0VQNHE,ADCC002255,Half Maximal Effective Concentration (EC50),=,0.08,nM ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0VWVOU,ADCC006209,Inhibition rate (50 nM),=,92.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0VWVOU,ADCC006205,80% Effective Dose (ED80),=,0.7,nM,microtubule-disrupting,non_potency_endpoint
+DRG0WRMGX,ADCC001969,Half Maximal Effective Concentration (EC50),=,0.8,ng/mL,Other,non_molar_or_missing_value
+DRG0WRMGX,ADCC001970,Half Maximal Effective Concentration (EC50),=,10.7,ug/mL,Other,non_molar_or_missing_value
+DRG0WWBCV,ADCC008158,Max inhibition rate (MIR),=,54.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0WWBCV,ADCC008153,Max inhibition rate (MIR),=,69.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0WWBCV,ADCC008148,Max inhibition rate (MIR),=,69.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0WWBCV,ADCC008173,Max inhibition rate (MIR),=,79.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0WWBCV,ADCC008183,Max inhibition rate (MIR),=,95.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0WWBCV,ADCC008168,Max inhibition rate (MIR),=,97.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0WWBCV,ADCC008163,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0WWBCV,ADCC008178,Max inhibition rate (MIR),=,100.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0WXQJL,ADCC002350,Half Maximal Inhibitory Concentration (IC50),=,0.1,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002332,Half Maximal Inhibitory Concentration (IC50),=,0.1,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002358,Half Maximal Inhibitory Concentration (IC50),=,0.2,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002357,Half Maximal Inhibitory Concentration (IC50),=,0.2,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002356,Half Maximal Inhibitory Concentration (IC50),=,0.2,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002355,Half Maximal Inhibitory Concentration (IC50),=,0.2,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002341,Half Maximal Inhibitory Concentration (IC50),=,0.2,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002343,Half Maximal Inhibitory Concentration (IC50),=,0.4,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002344,Half Maximal Inhibitory Concentration (IC50),=,0.9,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002335,Half Maximal Inhibitory Concentration (IC50),=,1.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002326,Half Maximal Inhibitory Concentration (IC50),=,3.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002346,Half Maximal Inhibitory Concentration (IC50),=,5.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002354,Half Maximal Inhibitory Concentration (IC50),=,6.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002333,Half Maximal Inhibitory Concentration (IC50),=,6.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002334,Half Maximal Inhibitory Concentration (IC50),=,7.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002327,Half Maximal Inhibitory Concentration (IC50),=,7.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002336,Half Maximal Inhibitory Concentration (IC50),>,7.5,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002345,Half Maximal Inhibitory Concentration (IC50),=,11.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002342,Half Maximal Inhibitory Concentration (IC50),=,11.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002331,Half Maximal Inhibitory Concentration (IC50),=,22.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002351,Half Maximal Inhibitory Concentration (IC50),=,23.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002330,Half Maximal Inhibitory Concentration (IC50),=,26.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002347,Half Maximal Inhibitory Concentration (IC50),=,32.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002352,Half Maximal Inhibitory Concentration (IC50),=,33.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002328,Half Maximal Inhibitory Concentration (IC50),=,49.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002329,Half Maximal Inhibitory Concentration (IC50),=,61.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002337,Half Maximal Inhibitory Concentration (IC50),=,68.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002353,Half Maximal Inhibitory Concentration (IC50),>,100.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002349,Half Maximal Inhibitory Concentration (IC50),>,110.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002348,Half Maximal Inhibitory Concentration (IC50),>,110.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002339,Half Maximal Inhibitory Concentration (IC50),>,1000.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002338,Half Maximal Inhibitory Concentration (IC50),>,1000.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0WXQJL,ADCC002340,Half Maximal Inhibitory Concentration (IC50),>,5000.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0XABHQ,ADCC001865,Half Maximal Effective Concentration (EC50),=,2.18,ug/mL,Other,non_molar_or_missing_value
+DRG0XABHQ,ADCC001866,Half Maximal Effective Concentration (EC50),>,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0XFTRM,ADCC003019,Half Maximal Inhibitory Concentration (IC50),=,0.14,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0XFTRM,ADCC003018,Half Maximal Inhibitory Concentration (IC50),=,0.65,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0XFTRM,ADCC003017,Half Maximal Inhibitory Concentration (IC50),=,14.17,ug/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0XIMBQ,ADCC001424,Half Maximal Inhibitory Concentration (IC50),=,4.29,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0XIMBQ,ADCC001425,Half Maximal Inhibitory Concentration (IC50),=,1220.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0XJKXB,ADCC001440,Half Maximal Inhibitory Concentration (IC50),=,10.7,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0XJKXB,ADCC001436,Half Maximal Inhibitory Concentration (IC50),=,20.9,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0XJKXB,ADCC001437,Half Maximal Inhibitory Concentration (IC50),=,23.3,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0XJKXB,ADCC001438,Half Maximal Inhibitory Concentration (IC50),>,50.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0XJKXB,ADCC001439,Half Maximal Inhibitory Concentration (IC50),>,250.0,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0XOIAM,ADCC008154,Max inhibition rate (MIR),=,53.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0XOIAM,ADCC008149,Max inhibition rate (MIR),=,66.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0XOIAM,ADCC008144,Max inhibition rate (MIR),=,72.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0XOIAM,ADCC008169,Max inhibition rate (MIR),=,78.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0XOIAM,ADCC008179,Max inhibition rate (MIR),=,92.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0XOIAM,ADCC008164,Max inhibition rate (MIR),=,98.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0XOIAM,ADCC008174,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0XOIAM,ADCC008159,Max inhibition rate (MIR),=,99.0,%,microtubule-disrupting,non_potency_endpoint
+DRG0YBEES,ADCC001895,Half Maximal Effective Concentration (EC50),=,0.03,ug/mL,Other,non_molar_or_missing_value
+DRG0YBEES,ADCC001896,Half Maximal Effective Concentration (EC50),=,8.5,ug/mL,Other,non_molar_or_missing_value
+DRG0YFDWE,ADCC001881,Half Maximal Effective Concentration (EC50),=,0.2,ug/mL,Other,non_molar_or_missing_value
+DRG0YFDWE,ADCC001882,Half Maximal Effective Concentration (EC50),=,3.1,ug/mL,Other,non_molar_or_missing_value
+DRG0YFUMC,ADCC002523,Half Maximal Inhibitory Concentration (IC50),=,2.8,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0YQKRG,ADCC004324,Half Maximal Inhibitory Concentration (IC50),=,501.0,ng/mL,microtubule-disrupting,non_molar_or_missing_value
+DRG0ZBHUT,ADCC001883,Half Maximal Effective Concentration (EC50),=,0.12,ug/mL,Other,non_molar_or_missing_value
+DRG0ZBHUT,ADCC001884,Half Maximal Effective Concentration (EC50),>,50.0,ug/mL,Other,non_molar_or_missing_value
+DRG0ZRDFG,ADCC003377,Half Maximal Effective Concentration (EC50),=,4.8,ng/mL,DNA-damaging,non_molar_or_missing_value
+DRG0ZRDFG,ADCC003378,Half Maximal Effective Concentration (EC50),=,11.0,ng/mL,DNA-damaging,non_molar_or_missing_value

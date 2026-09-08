@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="260" viewBox="0 0 820 260">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="32" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2937">10 nM Response Prevalence By Mechanism</text>
+<text x="24" y="78" font-family="Arial, sans-serif" font-size="14" fill="#111827">DNA-damaging</text>
+<rect x="260" y="56" width="520.0" height="32" fill="#2f6f73"/>
+<text x="788.0" y="78" font-family="Arial, sans-serif" font-size="14" fill="#111827">0.783</text>
+<text x="24" y="122" font-family="Arial, sans-serif" font-size="14" fill="#111827">Other</text>
+<rect x="260" y="100" width="398.5" height="32" fill="#b84a62"/>
+<text x="666.4674329501916" y="122" font-family="Arial, sans-serif" font-size="14" fill="#111827">0.6</text>
+<text x="24" y="166" font-family="Arial, sans-serif" font-size="14" fill="#111827">Topo-I inhibitor</text>
+<rect x="260" y="144" width="357.3" height="32" fill="#7a5c1f"/>
+<text x="625.2924648786718" y="166" font-family="Arial, sans-serif" font-size="14" fill="#111827">0.538</text>
+<text x="24" y="210" font-family="Arial, sans-serif" font-size="14" fill="#111827">microtubule-disrupting</text>
+<rect x="260" y="188" width="465.5" height="32" fill="#4f67a5"/>
+<text x="733.5427841634737" y="210" font-family="Arial, sans-serif" font-size="14" fill="#111827">0.701</text>
+</svg>

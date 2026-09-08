@@ -1,0 +1,5 @@
+payload_mechanism,observations,positives_10nM,prevalence_10nM,unique_payloads,effective_payload_n,unique_antigens,unique_cell_lines,top_payload,top_payload_share,top_antigen,top_antigen_share,top_cell_line,top_cell_share
+DNA-damaging,166,130,0.783,8,5.02,9,117,PAY0IJSCK,30.7%,Hepatocyte growth factor receptor (MET),30.7%,A-172 cells,1.8%
+Other,15,9,0.600,3,2.15,4,14,PAY0VZNCV,73.3%,Tumor necrosis factor receptor superfamily member 17 (TNFRSF17),73.3%,THP1-Lucia ISG cells,13.3%
+Topo-I inhibitor,78,42,0.538,6,3.26,7,37,PAY0ZVBAI,62.8%,Receptor tyrosine-protein kinase erbB-2 (HER2),26.9%,Raji cells,6.4%
+microtubule-disrupting,365,256,0.701,8,4.44,20,142,PAY0FSXOW,44.9%,Mast/stem cell growth factor receptor Kit (KIT),18.6%,IGROV-1 cells,3.8%

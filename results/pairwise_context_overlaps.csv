@@ -1,0 +1,19 @@
+context,mechanism_a,mechanism_b,shared_contexts
+cell_line,DNA-damaging,microtubule-disrupting,36
+cell_line,Topo-I inhibitor,microtubule-disrupting,12
+cell_line,DNA-damaging,Topo-I inhibitor,11
+cell_line,Other,microtubule-disrupting,2
+cell_line,DNA-damaging,Other,0
+cell_line,Other,Topo-I inhibitor,0
+antigen_name,DNA-damaging,microtubule-disrupting,4
+antigen_name,Topo-I inhibitor,microtubule-disrupting,4
+antigen_name,DNA-damaging,Other,3
+antigen_name,DNA-damaging,Topo-I inhibitor,3
+antigen_name,Other,microtubule-disrupting,2
+antigen_name,Other,Topo-I inhibitor,1
+cell_antigen_context,DNA-damaging,microtubule-disrupting,16
+cell_antigen_context,DNA-damaging,Topo-I inhibitor,7
+cell_antigen_context,Topo-I inhibitor,microtubule-disrupting,5
+cell_antigen_context,Other,microtubule-disrupting,1
+cell_antigen_context,DNA-damaging,Other,0
+cell_antigen_context,Other,Topo-I inhibitor,0
