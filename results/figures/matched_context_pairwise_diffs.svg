@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="804" viewBox="0 0 1040 804">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="34" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#111827">Matched-context payload-unit response differences</text>
+<line x1="700.0" y1="48" x2="700.0" y2="780" stroke="#9ca3af" stroke-width="1"/>
+<line x1="420" y1="48" x2="980" y2="48" stroke="#d1d5db" stroke-width="1"/>
+<text x="420" y="42" font-family="Arial, sans-serif" font-size="12" fill="#374151">-1</text>
+<text x="696.0" y="42" font-family="Arial, sans-serif" font-size="12" fill="#374151">0</text>
+<text x="970" y="42" font-family="Arial, sans-serif" font-size="12" fill="#374151">+1</text>
+<text x="24" y="69" font-family="Arial, sans-serif" font-size="12" fill="#111827">SK-OV-3 cells || Receptor tyrosine-protein kinase erb...</text>
+<text x="300" y="69" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - Topo-I inhibitor</text>
+<circle cx="980.0" cy="64" r="5" fill="#b84a62"/>
+<text x="24" y="94" font-family="Arial, sans-serif" font-size="12" fill="#111827">Raji cells || B-cell receptor CD22 (CD22)</text>
+<text x="300" y="94" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - Topo-I inhibitor</text>
+<circle cx="840.0" cy="89" r="5" fill="#b84a62"/>
+<text x="24" y="119" font-family="Arial, sans-serif" font-size="12" fill="#111827">Ramos cells || B-cell receptor CD22 (CD22)</text>
+<text x="300" y="119" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - Topo-I inhibitor</text>
+<circle cx="840.0" cy="114" r="5" fill="#b84a62"/>
+<text x="24" y="144" font-family="Arial, sans-serif" font-size="12" fill="#111827">Reh cells || B-cell receptor CD22 (CD22)</text>
+<text x="300" y="144" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - Topo-I inhibitor</text>
+<circle cx="840.0" cy="139" r="5" fill="#b84a62"/>
+<text x="24" y="169" font-family="Arial, sans-serif" font-size="12" fill="#111827">Daudi cells || B-cell receptor CD22 (CD22)</text>
+<text x="300" y="169" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - Topo-I inhibitor</text>
+<circle cx="700.0" cy="164" r="5" fill="#b84a62"/>
+<text x="24" y="194" font-family="Arial, sans-serif" font-size="12" fill="#111827">MDA-MB-231 cells || Receptor tyrosine-protein kinase ...</text>
+<text x="300" y="194" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - Topo-I inhibitor</text>
+<circle cx="700.0" cy="189" r="5" fill="#b84a62"/>
+<text x="24" y="219" font-family="Arial, sans-serif" font-size="12" fill="#111827">RS4 11 cells || B-cell receptor CD22 (CD22)</text>
+<text x="300" y="219" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - Topo-I inhibitor</text>
+<circle cx="700.0" cy="214" r="5" fill="#b84a62"/>
+<text x="24" y="244" font-family="Arial, sans-serif" font-size="12" fill="#111827">SW620 cells || Epidermal growth factor receptor (EGFR)</text>
+<text x="300" y="244" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="980.0" cy="239" r="5" fill="#2f6f73"/>
+<text x="24" y="269" font-family="Arial, sans-serif" font-size="12" fill="#111827">NCI-N87 cells || Receptor tyrosine-protein kinase erb...</text>
+<text x="300" y="269" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="433.3" cy="264" r="5" fill="#2f6f73"/>
+<text x="24" y="294" font-family="Arial, sans-serif" font-size="12" fill="#111827">A375.S2 cells || CD276 antigen (CD276)</text>
+<text x="300" y="294" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="289" r="5" fill="#2f6f73"/>
+<text x="24" y="319" font-family="Arial, sans-serif" font-size="12" fill="#111827">Calu-6 cells || CD276 antigen (CD276)</text>
+<text x="300" y="319" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="314" r="5" fill="#2f6f73"/>
+<text x="24" y="344" font-family="Arial, sans-serif" font-size="12" fill="#111827">HCT 15 cells || Epidermal growth factor receptor (EGFR)</text>
+<text x="300" y="344" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="339" r="5" fill="#2f6f73"/>
+<text x="24" y="369" font-family="Arial, sans-serif" font-size="12" fill="#111827">Hs 700T cells || CD276 antigen (CD276)</text>
+<text x="300" y="369" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="364" r="5" fill="#2f6f73"/>
+<text x="24" y="394" font-family="Arial, sans-serif" font-size="12" fill="#111827">LoVo cells || Epidermal growth factor receptor (EGFR)</text>
+<text x="300" y="394" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="389" r="5" fill="#2f6f73"/>
+<text x="24" y="419" font-family="Arial, sans-serif" font-size="12" fill="#111827">MDA-MB-231 cells || Receptor tyrosine-protein kinase ...</text>
+<text x="300" y="419" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="414" r="5" fill="#2f6f73"/>
+<text x="24" y="444" font-family="Arial, sans-serif" font-size="12" fill="#111827">MDA-MB-231 cells || Tyrosine-protein kinase receptor ...</text>
+<text x="300" y="444" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="439" r="5" fill="#2f6f73"/>
+<text x="24" y="469" font-family="Arial, sans-serif" font-size="12" fill="#111827">MDA-MB-468 cells || CD276 antigen (CD276)</text>
+<text x="300" y="469" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="464" r="5" fill="#2f6f73"/>
+<text x="24" y="494" font-family="Arial, sans-serif" font-size="12" fill="#111827">NCI-H1703 cells || CD276 antigen (CD276)</text>
+<text x="300" y="494" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="489" r="5" fill="#2f6f73"/>
+<text x="24" y="519" font-family="Arial, sans-serif" font-size="12" fill="#111827">PA-1 cells || CD276 antigen (CD276)</text>
+<text x="300" y="519" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="514" r="5" fill="#2f6f73"/>
+<text x="24" y="544" font-family="Arial, sans-serif" font-size="12" fill="#111827">Raji cells || CD276 antigen (CD276)</text>
+<text x="300" y="544" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="539" r="5" fill="#2f6f73"/>
+<text x="24" y="569" font-family="Arial, sans-serif" font-size="12" fill="#111827">SK-BR-3 cells || Receptor tyrosine-protein kinase erb...</text>
+<text x="300" y="569" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="564" r="5" fill="#2f6f73"/>
+<text x="24" y="594" font-family="Arial, sans-serif" font-size="12" fill="#111827">SK-OV-3 cells || Receptor tyrosine-protein kinase erb...</text>
+<text x="300" y="594" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="589" r="5" fill="#2f6f73"/>
+<text x="24" y="619" font-family="Arial, sans-serif" font-size="12" fill="#111827">U-87MG cells || Epidermal growth factor receptor (EGFR)</text>
+<text x="300" y="619" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">DNA-damaging - microtubule-disrupting</text>
+<circle cx="700.0" cy="614" r="5" fill="#2f6f73"/>
+<text x="24" y="644" font-family="Arial, sans-serif" font-size="12" fill="#111827">SK-OV-3 cells || Receptor tyrosine-protein kinase erb...</text>
+<text x="300" y="644" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">Topo-I inhibitor - microtubule-disrupting</text>
+<circle cx="420.0" cy="639" r="5" fill="#4f67a5"/>
+<text x="24" y="669" font-family="Arial, sans-serif" font-size="12" fill="#111827">CVCL_0033 || Receptor tyrosine-protein kinase erbB-2 ...</text>
+<text x="300" y="669" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">Topo-I inhibitor - microtubule-disrupting</text>
+<circle cx="700.0" cy="664" r="5" fill="#4f67a5"/>
+<text x="24" y="694" font-family="Arial, sans-serif" font-size="12" fill="#111827">CVCL_0479 || Cadherin-6 (CDH6)</text>
+<text x="300" y="694" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">Topo-I inhibitor - microtubule-disrupting</text>
+<circle cx="700.0" cy="689" r="5" fill="#4f67a5"/>
+<text x="24" y="719" font-family="Arial, sans-serif" font-size="12" fill="#111827">MCF-7 cells || Receptor tyrosine-protein kinase erbB-...</text>
+<text x="300" y="719" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">Topo-I inhibitor - microtubule-disrupting</text>
+<circle cx="700.0" cy="714" r="5" fill="#4f67a5"/>
+<text x="24" y="744" font-family="Arial, sans-serif" font-size="12" fill="#111827">MDA-MB-231 cells || Receptor tyrosine-protein kinase ...</text>
+<text x="300" y="744" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">Topo-I inhibitor - microtubule-disrupting</text>
+<circle cx="700.0" cy="739" r="5" fill="#4f67a5"/>
+</svg>

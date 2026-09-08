@@ -1,0 +1,5 @@
+scope,input_observations,positive_input_observations,negative_input_observations,observation_prevalence,payload_context_units,mean_payload_unit_response_rate,unique_payloads,unique_mechanisms,unique_cell_antigen_contexts
+all_processed_observations,624,437,187,0.7003,453,0.7165,25,4,382
+major_mechanisms_only,609,428,181,0.7028,439,0.7199,22,3,369
+matched_major_exact_contexts,113,80,33,0.7080,58,0.7131,13,3,24
+matched_major_survival_fraction_vs_major,18.6%,,,,13.2%,,,,

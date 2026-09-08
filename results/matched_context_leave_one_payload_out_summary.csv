@@ -1,0 +1,4 @@
+mechanism_a,mechanism_b,payloads_tested,unavailable_holdouts,payloads_making_statistic_unavailable,sign_change_holdouts,payloads_changing_sign,min_remaining_crossed_contexts,max_remaining_crossed_contexts,min_leave_one_payload_out_statistic,max_leave_one_payload_out_statistic
+DNA-damaging,Topo-I inhibitor,3,1,PAY0ZVBAI,0,,0,5,0.3000,0.5000
+DNA-damaging,microtubule-disrupting,8,0,,2,PAY0AKDAM;PAY0FSXOW,4,16,-0.2500,0.0769
+Topo-I inhibitor,microtubule-disrupting,7,0,,1,PAY0ZVBAI,2,5,-0.2500,0.0000

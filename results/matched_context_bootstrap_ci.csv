@@ -1,0 +1,7 @@
+bootstrap,mechanism_a,mechanism_b,observed_statistic,bootstrap_repeats_requested,bootstrap_repeats_available,unavailable_repeats,bootstrap_mean,bootstrap_p025,bootstrap_p975,fraction_gt_zero,fraction_lt_zero,unique_payloads_a,unique_payloads_b,payload_bootstrap_degenerate
+context_and_within_arm_payload_unit_bootstrap,DNA-damaging,microtubule-disrupting,0.0030,5000,5000,0,0.0022,-0.1786,0.1875,0.4852,0.3466,5,3,0
+payload_cluster_bootstrap,DNA-damaging,microtubule-disrupting,0.0030,5000,4891,109,-0.0626,-0.3333,0.1667,0.4907,0.3870,5,3,0
+context_and_within_arm_payload_unit_bootstrap,DNA-damaging,Topo-I inhibitor,0.3571,5000,5000,0,0.3537,0.1429,0.6429,0.9968,0.0000,2,1,0
+payload_cluster_bootstrap,DNA-damaging,Topo-I inhibitor,0.3571,5000,5000,0,0.3789,0.3000,0.5000,1.0000,0.0000,2,1,1
+context_and_within_arm_payload_unit_bootstrap,Topo-I inhibitor,microtubule-disrupting,-0.2000,5000,5000,0,-0.2023,-0.6000,0.0000,0.0000,0.6744,3,4,0
+payload_cluster_bootstrap,Topo-I inhibitor,microtubule-disrupting,-0.2000,5000,4794,206,-0.1875,-0.3333,0.0000,0.0000,0.6925,3,4,0

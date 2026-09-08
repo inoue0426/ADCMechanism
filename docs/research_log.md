@@ -98,3 +98,49 @@ The defensible reformulation is narrower: test whether coarse payload mechanism 
 **Next cheapest discriminating experiment**
 
 Stop model escalation. Curate before modeling: validate cell-line naming/synonyms, endpoint aggregation, and mass-unit conversion assumptions to see whether additional genuinely matched cell-line/antigen contexts can be recovered from the existing local ADCdb pages.
+
+### 2026-09-08 - Exact matched-context pivot analysis
+
+**Question**
+
+After controlling biological context as tightly as the current data permit, is payload mechanism associated with differential ADC response within the same antigen x cell-line contexts?
+
+**Experiment**
+
+Command:
+
+```bash
+python3 scripts/matched_context_pivot.py
+```
+
+The script reads the existing processed ADCdb table only. It excludes `Other`, collapses repeated observations to one payload-context unit per payload identity within each exact antigen x cell-line context, identifies contexts measured under multiple major mechanisms, and runs transparent within-context comparisons, context-fixed residual summaries, within-context permutation controls, context/payload bootstraps, leave-one-payload-out checks, and a strongest-overlap subset analysis. No predictive model was trained.
+
+**Result**
+
+- 24 exact crossed major-mechanism antigen x cell-line contexts were available.
+- These represented 113 input observations, but only 58 payload-context units after collapsing repeated payload observations.
+- The matched subset retained 18.6% of major-mechanism input observations and 13.2% of major-mechanism payload-context units.
+- 6/24 exact crossed contexts had any unit-level response variation.
+- 0 pairwise context comparisons had >=2 independent payload identities in both mechanism arms.
+
+Pairwise payload-unit response differences:
+
+- DNA-damaging vs microtubule-disrupting: 16 contexts, mean difference 0.0030, 1/1/14 higher/lower/equal, permutation p=1.0000.
+- DNA-damaging vs Topo-I inhibitor: 7 contexts, mean difference 0.3571, 4/0/3 higher/lower/equal, permutation p=0.1266.
+- Topo-I inhibitor vs microtubule-disrupting: 5 contexts, mean difference -0.2000, 0/1/4 higher/lower/equal, permutation p=0.3294.
+
+The strongest descriptive signal was DNA-damaging higher than Topo-I, but Topo-I was represented by only `PAY0ZVBAI` in that comparison. Leave-one-payload-out confirmed the fragility: holding out `PAY0ZVBAI` eliminates the DNA-damaging vs Topo-I comparison entirely. The all-mechanism context-fixed residual range was nominal under within-context permutation (observed 0.1874; p=0.0343), but this did not survive the payload-level identifiability requirement because no exact context has replicated payload support in both mechanism arms.
+
+**Interpretation**
+
+The current data can show payload-specific differences within a few exact biological contexts, but they cannot distinguish a mechanism-level effect from payload identity. The observed DNA-vs-Topo pattern is scientifically interesting only as a descriptive payload/context pattern, not as evidence for mechanism-aware response prediction.
+
+**Decision**
+
+**PIVOT-WEAK**
+
+There is an interesting descriptive pattern, but the current dataset cannot separate mechanism from payload identity strongly enough for a defensible mechanism-level claim.
+
+**Next cheapest discriminating experiment**
+
+Stop modeling. To resolve the pivot, obtain or curate crossed data where the same antigen x cell-line contexts are measured under at least two independent payloads per mechanism, across several contexts per mechanism pair, with harmonized endpoints and units.

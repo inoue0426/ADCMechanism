@@ -1,0 +1,5 @@
+test,mechanism_a,mechanism_b,observed_statistic,permutations,permutation_mean,permutation_p025,permutation_p975,p_two_sided_or_upper_tail
+all_mechanisms_context_fixed_residual_range,,,0.1874,10000,0.0940,0.0121,0.1874,0.0343
+pair_context_mean_unit_response_diff,DNA-damaging,microtubule-disrupting,0.0030,10000,-0.0004,-0.1220,0.0863,1.0000
+pair_context_mean_unit_response_diff,DNA-damaging,Topo-I inhibitor,0.3571,10000,-0.0011,-0.3571,0.3571,0.1266
+pair_context_mean_unit_response_diff,Topo-I inhibitor,microtubule-disrupting,-0.2000,10000,0.0012,-0.2000,0.1000,0.3294

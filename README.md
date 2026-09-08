@@ -70,6 +70,7 @@ The current ADCdb/ADCNet mechanism identifiability run is reproducible with:
 ```bash
 python3 scripts/audit_adcdb_activity.py
 python3 scripts/identifiability_study.py
+python3 scripts/matched_context_pivot.py
 ```
 
 Primary outputs:
@@ -77,4 +78,5 @@ Primary outputs:
 - `results/identifiability_study.md`
 - `results/cheap_model_results.csv`
 - `results/matched_context_mechanism_effect_summary.csv`
+- `results/matched_context_pivot.md`
 - `OVERNIGHT_STATUS.md`

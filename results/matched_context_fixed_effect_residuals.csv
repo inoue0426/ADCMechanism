@@ -1,0 +1,59 @@
+payload_context_unit_id,cell_antigen_context,payload_mechanism,payload_identity,response_rate,context_unit_response_mean,context_fixed_residual,input_observations,unique_adcs
+HCT 15 cells || Epidermal growth factor receptor (EGFR) || DNA-damaging || PAY0AKDAM,HCT 15 cells || Epidermal growth factor receptor (EGFR),DNA-damaging,PAY0AKDAM,0.0000,0.0000,0.0000,1,1
+LoVo cells || Epidermal growth factor receptor (EGFR) || DNA-damaging || PAY0AKDAM,LoVo cells || Epidermal growth factor receptor (EGFR),DNA-damaging,PAY0AKDAM,1.0000,1.0000,0.0000,1,1
+SW620 cells || Epidermal growth factor receptor (EGFR) || DNA-damaging || PAY0AKDAM,SW620 cells || Epidermal growth factor receptor (EGFR),DNA-damaging,PAY0AKDAM,1.0000,0.5000,0.5000,1,1
+U-87MG cells || Epidermal growth factor receptor (EGFR) || DNA-damaging || PAY0AKDAM,U-87MG cells || Epidermal growth factor receptor (EGFR),DNA-damaging,PAY0AKDAM,1.0000,1.0000,0.0000,1,1
+SK-BR-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || DNA-damaging || PAY0LZRXU,SK-BR-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),DNA-damaging,PAY0LZRXU,1.0000,1.0000,0.0000,2,2
+MDA-MB-231 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || DNA-damaging || PAY0QKJME,MDA-MB-231 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),DNA-damaging,PAY0QKJME,0.0000,0.0000,0.0000,1,1
+NCI-N87 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || DNA-damaging || PAY0QKJME,NCI-N87 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),DNA-damaging,PAY0QKJME,0.0000,0.7143,-0.7143,1,1
+SK-OV-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || DNA-damaging || PAY0QKJME,SK-OV-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),DNA-damaging,PAY0QKJME,1.0000,0.7500,0.2500,1,1
+Daudi cells || B-cell receptor CD22 (CD22) || DNA-damaging || PAY0RZSDY,Daudi cells || B-cell receptor CD22 (CD22),DNA-damaging,PAY0RZSDY,1.0000,1.0000,0.0000,1,1
+RS4 11 cells || B-cell receptor CD22 (CD22) || DNA-damaging || PAY0RZSDY,RS4 11 cells || B-cell receptor CD22 (CD22),DNA-damaging,PAY0RZSDY,1.0000,1.0000,0.0000,1,1
+Raji cells || B-cell receptor CD22 (CD22) || DNA-damaging || PAY0RZSDY,Raji cells || B-cell receptor CD22 (CD22),DNA-damaging,PAY0RZSDY,1.0000,0.7500,0.2500,1,1
+Ramos cells || B-cell receptor CD22 (CD22) || DNA-damaging || PAY0RZSDY,Ramos cells || B-cell receptor CD22 (CD22),DNA-damaging,PAY0RZSDY,1.0000,0.7500,0.2500,1,1
+Reh cells || B-cell receptor CD22 (CD22) || DNA-damaging || PAY0RZSDY,Reh cells || B-cell receptor CD22 (CD22),DNA-damaging,PAY0RZSDY,1.0000,0.7500,0.2500,1,1
+A375.S2 cells || CD276 antigen (CD276) || DNA-damaging || PAY0SOSMQ,A375.S2 cells || CD276 antigen (CD276),DNA-damaging,PAY0SOSMQ,1.0000,1.0000,0.0000,1,1
+Calu-6 cells || CD276 antigen (CD276) || DNA-damaging || PAY0SOSMQ,Calu-6 cells || CD276 antigen (CD276),DNA-damaging,PAY0SOSMQ,1.0000,1.0000,0.0000,1,1
+Hs 700T cells || CD276 antigen (CD276) || DNA-damaging || PAY0SOSMQ,Hs 700T cells || CD276 antigen (CD276),DNA-damaging,PAY0SOSMQ,1.0000,1.0000,0.0000,1,1
+MDA-MB-468 cells || CD276 antigen (CD276) || DNA-damaging || PAY0SOSMQ,MDA-MB-468 cells || CD276 antigen (CD276),DNA-damaging,PAY0SOSMQ,1.0000,1.0000,0.0000,1,1
+NCI-H1703 cells || CD276 antigen (CD276) || DNA-damaging || PAY0SOSMQ,NCI-H1703 cells || CD276 antigen (CD276),DNA-damaging,PAY0SOSMQ,1.0000,1.0000,0.0000,1,1
+PA-1 cells || CD276 antigen (CD276) || DNA-damaging || PAY0SOSMQ,PA-1 cells || CD276 antigen (CD276),DNA-damaging,PAY0SOSMQ,1.0000,1.0000,0.0000,1,1
+Raji cells || CD276 antigen (CD276) || DNA-damaging || PAY0SOSMQ,Raji cells || CD276 antigen (CD276),DNA-damaging,PAY0SOSMQ,0.0000,0.0000,0.0000,1,1
+MDA-MB-231 cells || Tyrosine-protein kinase receptor UFO (AXL) || DNA-damaging || PAY0XBVCC,MDA-MB-231 cells || Tyrosine-protein kinase receptor UFO (AXL),DNA-damaging,PAY0XBVCC,1.0000,1.0000,0.0000,1,1
+CVCL_0479 || Cadherin-6 (CDH6) || Topo-I inhibitor || PAY0UXDSB,CVCL_0479 || Cadherin-6 (CDH6),Topo-I inhibitor,PAY0UXDSB,1.0000,1.0000,0.0000,4,4
+CVCL_0033 || Receptor tyrosine-protein kinase erbB-2 (HER2) || Topo-I inhibitor || PAY0WSZPJ,CVCL_0033 || Receptor tyrosine-protein kinase erbB-2 (HER2),Topo-I inhibitor,PAY0WSZPJ,1.0000,1.0000,0.0000,1,1
+Daudi cells || B-cell receptor CD22 (CD22) || Topo-I inhibitor || PAY0ZVBAI,Daudi cells || B-cell receptor CD22 (CD22),Topo-I inhibitor,PAY0ZVBAI,1.0000,1.0000,0.0000,1,1
+MCF-7 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || Topo-I inhibitor || PAY0ZVBAI,MCF-7 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),Topo-I inhibitor,PAY0ZVBAI,0.0000,0.0000,0.0000,4,4
+MDA-MB-231 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || Topo-I inhibitor || PAY0ZVBAI,MDA-MB-231 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),Topo-I inhibitor,PAY0ZVBAI,0.0000,0.0000,0.0000,4,4
+RS4 11 cells || B-cell receptor CD22 (CD22) || Topo-I inhibitor || PAY0ZVBAI,RS4 11 cells || B-cell receptor CD22 (CD22),Topo-I inhibitor,PAY0ZVBAI,1.0000,1.0000,0.0000,1,1
+Raji cells || B-cell receptor CD22 (CD22) || Topo-I inhibitor || PAY0ZVBAI,Raji cells || B-cell receptor CD22 (CD22),Topo-I inhibitor,PAY0ZVBAI,0.5000,0.7500,-0.2500,2,2
+Ramos cells || B-cell receptor CD22 (CD22) || Topo-I inhibitor || PAY0ZVBAI,Ramos cells || B-cell receptor CD22 (CD22),Topo-I inhibitor,PAY0ZVBAI,0.5000,0.7500,-0.2500,2,2
+Reh cells || B-cell receptor CD22 (CD22) || Topo-I inhibitor || PAY0ZVBAI,Reh cells || B-cell receptor CD22 (CD22),Topo-I inhibitor,PAY0ZVBAI,0.5000,0.7500,-0.2500,2,2
+SK-OV-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || Topo-I inhibitor || PAY0ZVBAI,SK-OV-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),Topo-I inhibitor,PAY0ZVBAI,0.0000,0.7500,-0.7500,4,4
+A375.S2 cells || CD276 antigen (CD276) || microtubule-disrupting || PAY0FSXOW,A375.S2 cells || CD276 antigen (CD276),microtubule-disrupting,PAY0FSXOW,1.0000,1.0000,0.0000,4,4
+CVCL_0033 || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0FSXOW,CVCL_0033 || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0FSXOW,1.0000,1.0000,0.0000,1,1
+Calu-6 cells || CD276 antigen (CD276) || microtubule-disrupting || PAY0FSXOW,Calu-6 cells || CD276 antigen (CD276),microtubule-disrupting,PAY0FSXOW,1.0000,1.0000,0.0000,4,4
+HCT 15 cells || Epidermal growth factor receptor (EGFR) || microtubule-disrupting || PAY0FSXOW,HCT 15 cells || Epidermal growth factor receptor (EGFR),microtubule-disrupting,PAY0FSXOW,0.0000,0.0000,0.0000,1,1
+Hs 700T cells || CD276 antigen (CD276) || microtubule-disrupting || PAY0FSXOW,Hs 700T cells || CD276 antigen (CD276),microtubule-disrupting,PAY0FSXOW,1.0000,1.0000,0.0000,4,4
+LoVo cells || Epidermal growth factor receptor (EGFR) || microtubule-disrupting || PAY0FSXOW,LoVo cells || Epidermal growth factor receptor (EGFR),microtubule-disrupting,PAY0FSXOW,1.0000,1.0000,0.0000,1,1
+MCF-7 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0FSXOW,MCF-7 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0FSXOW,0.0000,0.0000,0.0000,3,3
+MDA-MB-231 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0FSXOW,MDA-MB-231 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0FSXOW,0.0000,0.0000,0.0000,1,1
+MDA-MB-231 cells || Tyrosine-protein kinase receptor UFO (AXL) || microtubule-disrupting || PAY0FSXOW,MDA-MB-231 cells || Tyrosine-protein kinase receptor UFO (AXL),microtubule-disrupting,PAY0FSXOW,1.0000,1.0000,0.0000,2,2
+MDA-MB-468 cells || CD276 antigen (CD276) || microtubule-disrupting || PAY0FSXOW,MDA-MB-468 cells || CD276 antigen (CD276),microtubule-disrupting,PAY0FSXOW,1.0000,1.0000,0.0000,4,4
+NCI-H1703 cells || CD276 antigen (CD276) || microtubule-disrupting || PAY0FSXOW,NCI-H1703 cells || CD276 antigen (CD276),microtubule-disrupting,PAY0FSXOW,1.0000,1.0000,0.0000,4,4
+NCI-N87 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0FSXOW,NCI-N87 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0FSXOW,0.8571,0.7143,0.1429,7,7
+PA-1 cells || CD276 antigen (CD276) || microtubule-disrupting || PAY0FSXOW,PA-1 cells || CD276 antigen (CD276),microtubule-disrupting,PAY0FSXOW,1.0000,1.0000,0.0000,4,4
+Raji cells || CD276 antigen (CD276) || microtubule-disrupting || PAY0FSXOW,Raji cells || CD276 antigen (CD276),microtubule-disrupting,PAY0FSXOW,0.0000,0.0000,0.0000,4,4
+SK-BR-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0FSXOW,SK-BR-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0FSXOW,1.0000,1.0000,0.0000,6,6
+SK-OV-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0FSXOW,SK-OV-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0FSXOW,1.0000,0.7500,0.2500,3,3
+SW620 cells || Epidermal growth factor receptor (EGFR) || microtubule-disrupting || PAY0FSXOW,SW620 cells || Epidermal growth factor receptor (EGFR),microtubule-disrupting,PAY0FSXOW,0.0000,0.5000,-0.5000,1,1
+U-87MG cells || Epidermal growth factor receptor (EGFR) || microtubule-disrupting || PAY0FSXOW,U-87MG cells || Epidermal growth factor receptor (EGFR),microtubule-disrupting,PAY0FSXOW,1.0000,1.0000,0.0000,2,2
+CVCL_0479 || Cadherin-6 (CDH6) || microtubule-disrupting || PAY0GTSVM,CVCL_0479 || Cadherin-6 (CDH6),microtubule-disrupting,PAY0GTSVM,1.0000,1.0000,0.0000,1,1
+MCF-7 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0JCIBW,MCF-7 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0JCIBW,0.0000,0.0000,0.0000,1,1
+MDA-MB-231 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0JCIBW,MDA-MB-231 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0JCIBW,0.0000,0.0000,0.0000,1,1
+NCI-N87 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0JCIBW,NCI-N87 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0JCIBW,1.0000,0.7143,0.2857,1,1
+SK-BR-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0JCIBW,SK-BR-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0JCIBW,1.0000,1.0000,0.0000,2,2
+MCF-7 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0VZVPQ,MCF-7 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0VZVPQ,0.0000,0.0000,0.0000,1,1
+NCI-N87 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0VZVPQ,NCI-N87 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0VZVPQ,1.0000,0.7143,0.2857,1,1
+SK-BR-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0VZVPQ,SK-BR-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0VZVPQ,1.0000,1.0000,0.0000,1,1
+SK-OV-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2) || microtubule-disrupting || PAY0VZVPQ,SK-OV-3 cells || Receptor tyrosine-protein kinase erbB-2 (HER2),microtubule-disrupting,PAY0VZVPQ,1.0000,0.7500,0.2500,1,1
